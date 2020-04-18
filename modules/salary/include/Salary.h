@@ -1,3 +1,4 @@
+// Copyright 2020 SAVIN DMITRIY 
 #pragma once
 class Salary
 {

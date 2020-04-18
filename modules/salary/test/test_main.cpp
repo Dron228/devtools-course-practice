@@ -1,5 +1,4 @@
-// Copyright 2017 Korniakov Kirill
-
+// Copyright 2020 SAVIN DMITRIY 
 #include <gtest/gtest.h>
 
 int main(int argc, char **argv) {
